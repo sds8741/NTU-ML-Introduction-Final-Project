@@ -5,6 +5,7 @@
 - Task: Multi-Class Classification
 - DATA INFORMATION:
   - Type: 0~3
+  - Data format: jpg (unified)
   - Data amount:
     - 0: 2000
     - 1: 2000
