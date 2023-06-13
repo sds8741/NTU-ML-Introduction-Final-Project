@@ -14,4 +14,4 @@
 
 Keras code: [final_1](final_1.ipynb),[final_2](final_2.ipynb)
 
-書面簡報: [競賽報告pdf](C:\Users\sds87\OneDrive\桌面\Github\NTU-ML-Introduction-Final-Project\期末競賽報告.pdf)
+書面簡報: [競賽報告pdf](期末競賽報告.pdf)
