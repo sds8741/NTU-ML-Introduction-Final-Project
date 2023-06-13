@@ -4,9 +4,15 @@
 - Dataset: images of clothes on online stores
 - Task: Multi-Class Classification
 - DATA INFORMATION:
-  - Data amount:6000
-  - Image size: unrestricted
   - Type: 0~3
+  - Data amount:
+    - 0: 2000
+    - 1: 2000
+    - 2: 1200
+    - 3: 800
+    - Total: 6000
+  - Image size: unrestricted
+  
 
 ![classes](classes.png "clothes classes")
 ***
